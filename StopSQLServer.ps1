@@ -1,0 +1,5 @@
+net stop "SQL Server (MSSQLSERVER)"
+net stop "SQL Server Browser"
+net stop "SQL Server Agent (MSSQLSERVER)"
+net stop "SQL Server CEIP service (MSSQLSERVER)"
+net stop "SQL Server VSS Writer "

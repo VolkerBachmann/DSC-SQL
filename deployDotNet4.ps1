@@ -1,0 +1,1 @@
+dotNetFx45_Full_setup.exe /q /norestart /ChainingPackage ADMINDEPLOYMENT 

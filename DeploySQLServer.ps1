@@ -1,0 +1,1 @@
+Start-DscConfiguration -Path .\SQLInstall -Wait -Force -Verbose
